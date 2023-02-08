@@ -1,4 +1,5 @@
 #!/bin/bash
+@@ -1 +1,2 @@
 0 string SCHOOL
-0 string SCHOOL School data
-!:mime Holberton
+0 string SCHOOL School data 
+!:mime Holberton 
